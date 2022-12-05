@@ -1,0 +1,15 @@
+Unity 
+###角色###
+sprite Renderer #图片功能
+rigidbody #物理模拟控制物体的位置
+collider #侦测碰撞范围
+animator #動畫控制器
+audio source #音效
+
+////////
+Q #移动
+W #物件移动
+E #旋转
+R #xy轴缩放
+T #大小缩放
+Ctrl+D #物件复制
